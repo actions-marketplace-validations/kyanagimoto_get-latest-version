@@ -27,7 +27,7 @@
     "axios": "^0.24.0",
     "jqts": "^0.0.8",
     "node-jq": "^2.0.0",
-    "node-libcurl": "^2.3.3"
+    "node-libcurl": "^3.0.0"
   },
   "devDependencies": {
     "@types/node": "^16.11.7",
