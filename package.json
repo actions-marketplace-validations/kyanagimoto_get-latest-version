@@ -23,7 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.6.0",
-    "@actions/github": "^5.0.0",
+    "@actions/github": "^5.1.1",
     "axios": "^0.24.0",
     "jqts": "^0.0.8",
     "node-jq": "^2.0.0",
